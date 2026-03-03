@@ -1,4 +1,4 @@
-public class App {
+public class TemperatureAnalysis {
     public static void main(String[] args) throws Exception {
         // Temperature values array
         double[] temperatures = {55.5, 11.1, 44.4, 33.3};
