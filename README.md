@@ -18,7 +18,8 @@ A collection of coding challenges, algorithm solutions, and daily practice exerc
 ## 📊 Progress Table
 
 | Date | Challenge Name | Language | Level | Solution Link |
-| :--- | :--- | :--- | :--- | :--- |
+| 03.03.2026|	Temperature Analysis	|Java|	Easy | [View](./Java_OOP/App.java)|
+
 
 
 | ... | ... | ... | ... | ... |
