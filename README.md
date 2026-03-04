@@ -19,6 +19,7 @@ A collection of coding challenges, algorithm solutions, and daily practice exerc
 
 | Date | Challenge Name | Language | Level | Solution Link |
 | 03.03.2026|	Temperature Analysis	|Java|	Easy | [View](./Java_OOP/TemperatureAnalysis.java)|
+| 03.03.2026|	GeometryObjects	|Java|	Medium | [View](./Java_OOP/GeometryObjects)|
 
 
 
