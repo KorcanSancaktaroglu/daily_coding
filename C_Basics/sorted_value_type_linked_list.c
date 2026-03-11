@@ -22,15 +22,16 @@ int main()
         printf("Enter your num to add ('-1' to finish):"); scanf_s("%d", &choice);
         if (choice == -1) break;
         head = insertAtEnd(head);
-    }   printf("=========== List===========\n");
+    } 
+        printf("=========== List===========\n");
         displayList(head);
         sortOfList(head);
         printf("========Sorted List========\n");
         displayList(head);
 
         freeList(head);
-     printf("\nMemory cleared. Program terminated.\n");
-    return 0;
+        printf("\nMemory cleared. Program terminated.\n");
+        return 0;
 }
 value* createNode() {
     int tempNum;
